@@ -9,4 +9,4 @@ Output:
 
 
 
-        IF YOU COULD NOT UNDERSTAND THIS PROBLEM STATEMENT, PLEASE CLICK THIS LINK https://open.kattis.com/problems/abc
+   IF YOU COULD NOT UNDERSTAND THIS PROBLEM STATEMENT, PLEASE CLICK THIS LINK https://open.kattis.com/problems/abc
